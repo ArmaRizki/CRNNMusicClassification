@@ -13,11 +13,11 @@ This project implements a Convolutional Recurrent Neural Network (CRNN) for musi
 ## Usage
 1. Run the preprocessing script to extract MFCC features:
    ```bash
-   jupyter notebook prepocessing_audio.ipynb
+   prepocessing_audio.ipynb
 
 2. Training the Model:
    ```bash
-   jupyter notebook CRNN_model_10_Segmen.ipynb
+   CRNN_model_10_Segmen.ipynb
 
 ## Evaluating the Model
 Modify and run the evaluation section inside CRNN_model_10_Segmen.ipynb to test model performance on validation and test sets.
