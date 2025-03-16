@@ -29,7 +29,7 @@ Modify and run the evaluation section inside CRNN_model_10_Segmen.ipynb to test 
 - MFCC features are extracted from each segment and stored for model training.
 2. Model Training
 - The CRNN_model_10_Segmen.ipynb script defines and trains the CRNN model.
-- The model consists of:
+The model consists of:
 - Convolutional layers for feature extraction.
 - Recurrent layers (GRU/LSTM) for sequential pattern learning.
 - Fully connected layers for classification.
