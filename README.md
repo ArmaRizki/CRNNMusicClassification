@@ -1,2 +1,2 @@
-# CRNNMusicClassification
+# Music Clasification using Convolutional Recurrent Neural Network
 The CRNN model was developed for music genre classification using the GTZAN dataset, converted into MFCC features. Audio processing involved FFT and STFT for signal segmentation, with variations in segment length. The dataset was split into training, validation, and test sets with different split ratios. The best model achieved 85% accuracy.
